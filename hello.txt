@@ -1,1 +1,2 @@
 Hello World!
+This is an edit of the original file
